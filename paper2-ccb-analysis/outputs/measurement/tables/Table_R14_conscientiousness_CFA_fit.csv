@@ -1,0 +1,2 @@
+"Model","Status","Estimator","Fit_index_variant","Chi_square","df","p","CFI","TLI","RMSEA","RMSEA_CI_low","RMSEA_CI_high","SRMR"
+"Six-facet conscientiousness CFA","Estimated","DWLS","Scaled WLSMV/DWLS",1665.42391537218,1695,0.691283262100233,1,1.00319416101006,0,0,0.0102026865882951,0.0415434724948677

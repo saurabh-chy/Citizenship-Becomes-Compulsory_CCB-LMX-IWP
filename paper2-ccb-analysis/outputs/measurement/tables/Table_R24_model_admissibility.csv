@@ -1,0 +1,8 @@
+"Model","Converged","Post_check_passed","Negative_residual_variances","Standardized_loadings_abs_gt_1","R2_outside_0_1"
+"Ordinal six-factor CFA",TRUE,TRUE,0,0,0
+"Conscientiousness six-facet CFA",TRUE,TRUE,0,0,0
+"LMX scalar/threshold invariance",TRUE,TRUE,0,0,0
+"First-order parcel SEM",TRUE,TRUE,0,0,0
+"First-order bootstrap SEM",TRUE,TRUE,0,0,0
+"Second-order IWP parcel SEM",TRUE,TRUE,0,0,0
+"Second-order IWP bootstrap SEM",TRUE,TRUE,0,0,0

@@ -1,0 +1,10 @@
+Check,Result
+Rows,391
+Columns,147
+Duplicate rows,0
+Missing cells,0
+Item values below 1,0
+Item values above 5,0
+Supervisor tenure > organization tenure,0
+Organization tenure > total experience (months),0
+Age < total experience + 15,0

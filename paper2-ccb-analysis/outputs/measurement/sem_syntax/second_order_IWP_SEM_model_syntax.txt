@@ -1,0 +1,12 @@
+CCB =~ CCB_p1 + CCB_p2 + CCB_p3
+LMX_T1 =~ LMX1_p1 + LMX1_p2 + LMX1_p3
+LMX_T2 =~ LMX2_p1 + LMX2_p2 + LMX2_p3
+Conscientiousness =~ SE_facet + OR_facet + DU_facet + AS_facet + SD_facet + CA_facet
+Task =~ TASK_p1 + TASK_p2 + TASK_p3
+Contextual =~ CONTEXT_p1 + CONTEXT_p2 + CONTEXT_p3
+Reverse_CWB =~ CWBR_p1 + CWBR_p2 + CWBR_p3
+IWP =~ Task + Contextual + Reverse_CWB
+LMX_T2 ~ a*CCB + LMX_T1 + Conscientiousness + Gender_Female + Marital_Status_Married + Education_2 + Education_3 + z_Total_Experience_Years + z_Tenure_Org_Months + z_Tenure_Supervisor_Months
+IWP ~ b*LMX_T2 + cprime*CCB + Conscientiousness + Gender_Female + Marital_Status_Married + Education_2 + Education_3 + z_Total_Experience_Years + z_Tenure_Org_Months + z_Tenure_Supervisor_Months
+indirect := a*b
+total := cprime + indirect

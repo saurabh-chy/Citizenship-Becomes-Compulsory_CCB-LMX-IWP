@@ -1,0 +1,9 @@
+# Participant data are not shared publicly
+data/*
+!data/README.md
+
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store

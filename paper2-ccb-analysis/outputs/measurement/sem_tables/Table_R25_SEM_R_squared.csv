@@ -1,0 +1,58 @@
+"Model","Endogenous_variable","R_squared"
+"First-order parcel SEM","CCB_p1",0.721669342965037
+"First-order parcel SEM","CCB_p2",0.671165488805157
+"First-order parcel SEM","CCB_p3",0.448505305818368
+"First-order parcel SEM","LMX1_p1",0.721788220850573
+"First-order parcel SEM","LMX1_p2",0.686272252907685
+"First-order parcel SEM","LMX1_p3",0.602388117842334
+"First-order parcel SEM","LMX2_p1",0.760189482907253
+"First-order parcel SEM","LMX2_p2",0.555890566150596
+"First-order parcel SEM","LMX2_p3",0.573661950435627
+"First-order parcel SEM","SE_facet",0.299981992845566
+"First-order parcel SEM","OR_facet",0.261906725963741
+"First-order parcel SEM","DU_facet",0.273103428426113
+"First-order parcel SEM","AS_facet",0.254143349444794
+"First-order parcel SEM","SD_facet",0.282047362389054
+"First-order parcel SEM","CA_facet",0.195904511659207
+"First-order parcel SEM","TASK_p1",0.695805542862295
+"First-order parcel SEM","TASK_p2",0.682455304845887
+"First-order parcel SEM","TASK_p3",0.416626495579505
+"First-order parcel SEM","CONTEXT_p1",0.606472502916499
+"First-order parcel SEM","CONTEXT_p2",0.712514200567156
+"First-order parcel SEM","CONTEXT_p3",0.61134115412781
+"First-order parcel SEM","CWBR_p1",0.654425539581563
+"First-order parcel SEM","CWBR_p2",0.55977273936355
+"First-order parcel SEM","CWBR_p3",0.48303584572545
+"First-order parcel SEM","LMX_T2",0.550876748486095
+"First-order parcel SEM","Task",0.281594396504523
+"First-order parcel SEM","Contextual",0.267173153325623
+"First-order parcel SEM","Reverse_CWB",0.054261056885636
+"Second-order IWP parcel SEM","CCB_p1",0.717259892622998
+"Second-order IWP parcel SEM","CCB_p2",0.675400916860935
+"Second-order IWP parcel SEM","CCB_p3",0.448950408927973
+"Second-order IWP parcel SEM","LMX1_p1",0.723369578620053
+"Second-order IWP parcel SEM","LMX1_p2",0.684326742255647
+"Second-order IWP parcel SEM","LMX1_p3",0.60281023806814
+"Second-order IWP parcel SEM","LMX2_p1",0.76309028252501
+"Second-order IWP parcel SEM","LMX2_p2",0.556401939277027
+"Second-order IWP parcel SEM","LMX2_p3",0.574466844863728
+"Second-order IWP parcel SEM","SE_facet",0.293730502496231
+"Second-order IWP parcel SEM","OR_facet",0.265307043993607
+"Second-order IWP parcel SEM","DU_facet",0.267985954719632
+"Second-order IWP parcel SEM","AS_facet",0.262305004939081
+"Second-order IWP parcel SEM","SD_facet",0.28423737091272
+"Second-order IWP parcel SEM","CA_facet",0.194242437158547
+"Second-order IWP parcel SEM","TASK_p1",0.687368982521183
+"Second-order IWP parcel SEM","TASK_p2",0.689353360956972
+"Second-order IWP parcel SEM","TASK_p3",0.419783044306144
+"Second-order IWP parcel SEM","CONTEXT_p1",0.596549549594025
+"Second-order IWP parcel SEM","CONTEXT_p2",0.715057746935392
+"Second-order IWP parcel SEM","CONTEXT_p3",0.617902333786138
+"Second-order IWP parcel SEM","CWBR_p1",0.628267866079018
+"Second-order IWP parcel SEM","CWBR_p2",0.572003943050118
+"Second-order IWP parcel SEM","CWBR_p3",0.494271763112373
+"Second-order IWP parcel SEM","LMX_T2",0.548270209346225
+"Second-order IWP parcel SEM","Task",0.675569157034837
+"Second-order IWP parcel SEM","Contextual",0.422803825176955
+"Second-order IWP parcel SEM","Reverse_CWB",0.170421603193487
+"Second-order IWP parcel SEM","IWP",0.377910015113098

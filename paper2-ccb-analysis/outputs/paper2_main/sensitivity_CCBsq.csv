@@ -1,0 +1,11 @@
+model,effect,estimate,boot_SE,BCa_lower,BCa_upper
+H4  Indirect CCB -> LMX2 -> IWP (primary),indirect,-0.043,0.013,-0.074,-0.022
+H7  Conditional indirect + index (primary),low (-1 SD),-0.074,0.024,-0.126,-0.031
+H7  Conditional indirect + index (primary),mean,-0.043,0.014,-0.073,-0.019
+H7  Conditional indirect + index (primary),high (+1 SD),-0.012,0.009,-0.034,0.004
+H7  Conditional indirect + index (primary),index of mod. med.,0.031,0.012,0.012,0.06
+H4 with CCB2 in outcome equation,indirect,-0.04,0.013,-0.069,-0.019
+H7 with CCB2 in outcome equation,low (-1 SD),-0.068,0.023,-0.119,-0.027
+H7 with CCB2 in outcome equation,mean,-0.04,0.013,-0.069,-0.016
+H7 with CCB2 in outcome equation,high (+1 SD),-0.011,0.009,-0.033,0.003
+H7 with CCB2 in outcome equation,index of mod. med.,0.029,0.012,0.01,0.056
